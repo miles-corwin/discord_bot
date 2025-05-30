@@ -26,5 +26,5 @@ python bot.py
 Use `!join <checkpoint>` in your Discord server. The bot will queue you and simulate in-game actions to deliver the checkpoint.
 
 ## Notes
-- Ensure Destiny 2 is running and ready on a secondary mach.
+- Ensure Destiny 2 is running and ready on a secondary machine.
 - Regularly update coordinates if game UI changes.
