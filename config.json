@@ -1,0 +1,14 @@
+{
+  "invite_key": "enter",
+  "chat_open_key": "enter",
+  "invite_command_template": "/invite {username}",
+  "launch_delay": 5,
+  "leave_delay": 10,
+  "screen_resolution": "1920x1080",
+  "destiny2_coords": {
+    "start_button": [1000, 800],
+    "leave_button": [100, 100]
+  },
+  "discord_bot_token": "YOUR_DISCORD_BOT_TOKEN",
+  "admin_ids": ["YOUR_DISCORD_ID"]
+}
