@@ -1,7 +1,7 @@
 # Destiny 2 Checkpoint Bot with Discord Integration
 
 ## Requirements
-- Python 3.x
+- Python $\geq$ 3.8
 - discord.py
 - pyautogui
 
